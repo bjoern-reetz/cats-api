@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from src.cats_api.api import router
+from cats_api.api import router
 
 app = FastAPI()
 
